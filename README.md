@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **React, NextJS, and Typescript**
 
-- 👨‍💻 All of my projects are available at [irfannm.xyz/projects](irfannm.xyz/projects)
+- 👨‍💻 All of my projects are available at [irfannm.xyz/projects](https://irfannm.xyz/projects)
 
-- 📝 I regularly write articles on [irfannm.xyz/posts](irfannm.xyz/posts)
+- 📝 I regularly write articles on [irfannm.xyz/posts](https://irfannm.xyz/posts)
 
 - 📫 How to reach me **irfannmuhajir@gmail.com**
 
