@@ -1,13 +1,18 @@
-<h1 align="center">Hi 👋, I'm Irfan Nurghiffari Muhajir</h1>
-<h3 align="center">Frontend Engineer | Software Engineering Student</h3>
+### Hi, I'm Irfan!
 
-- 🌱 I’m currently learning **React, NextJS, and Typescript**
+#### Frontend Engineer | Software Engineering Student
 
-- 👨‍💻 All of my projects are available at [irfannm.xyz/projects](https://irfannm.xyz/projects)
+✨ About me
 
-- 📝 I regularly write articles on [irfannm.xyz/posts](https://irfannm.xyz/posts)
+A software engineering student who have a lot of passion in technology and web development. I mainly learn about frontend development using React & NextJS. I also regularly use cloud platform such as AWS, Azure & GCP and have experience in using Kubernetes & Red Hat Openshift. Other than technology, i have a lot of interest in economics and investing.
 
-- 📫 How to reach me **irfannmuhajir@gmail.com**
+🌱 I’m currently learning **React, NextJS, and Typescript**
+
+👨‍💻 All of my projects are available at [irfannm.xyz/projects](https://irfannm.xyz/projects)
+
+📝 I regularly write articles on [irfannm.xyz/posts](https://irfannm.xyz/posts)
+
+📫 How to reach me **irfannmuhajir@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
