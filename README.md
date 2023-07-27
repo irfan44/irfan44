@@ -8,9 +8,9 @@ A software engineering student who have a lot of passion in technology and web d
 
 🌱 I’m currently learning **React, NextJS, and Typescript**
 
-👨‍💻 All of my projects are available at [irfannm.xyz/projects](https://irfannm.xyz/projects)
+👨‍💻 All of my projects are available at [irfannm.dev/projects](https://irfannm.dev/projects)
 
-📝 I regularly write articles on [irfannm.xyz/posts](https://irfannm.xyz/posts)
+📝 I regularly write articles on [irfannm.dev/posts](https://irfannm.dev/posts)
 
 📫 How to reach me **irfannmuhajir@gmail.com**
 
