@@ -1,12 +1,12 @@
 ### Hi, I'm Irfan!
 
-#### Frontend Engineer | Software Engineering Student
+#### Frontend Engineer
 
 ✨ About me
 
-A software engineering student who have a lot of passion in technology and web development. I mainly learn about frontend development using React & NextJS. I also regularly use cloud platform such as AWS, Azure & GCP and have experience in using Kubernetes & Red Hat Openshift. Other than technology, i have a lot of interest in economics and investing.
+A software engineering graduate who have a lot of passion in web development, especially frontend development using React, NextJS, and Angular, with special interest in the banking or finance related industry
 
-🌱 I’m currently learning **React, NextJS, and Typescript**
+🌱 I’m currently learning **React, NextJS, Angular and Typescript**
 
 👨‍💻 All of my projects are available at [irfannm.dev/projects](https://irfannm.dev/projects)
 
