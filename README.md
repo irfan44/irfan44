@@ -10,7 +10,7 @@ A software engineering graduate who have a lot of passion in web development, es
 
 👨‍💻 All of my projects are available at [irfannm.dev/projects](https://irfannm.dev/projects)
 
-📝 I regularly write articles on [irfannm.dev/posts](https://irfannm.dev/posts)
+📝 I regularly write articles on [irfannm.dev/blog](https://irfannm.dev/blog)
 
 📫 How to reach me **irfannmuhajir@gmail.com**
 
