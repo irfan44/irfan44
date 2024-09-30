@@ -1,6 +1,6 @@
 ### Hi, I'm Irfan!
 
-#### Frontend Engineer at SayaKaya
+#### Frontend Engineer
 
 ✨ About me
 
