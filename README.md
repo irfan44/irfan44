@@ -1,12 +1,12 @@
 ### Hi, I'm Irfan!
 
-#### Frontend Engineer
+#### Software Engineer @ CIMB Niaga
 
 ✨ About me
 
-A software engineering graduate who have a lot of passion in web development, especially frontend development using React, NextJS, and Angular, with special interest in the banking or finance related industry
+A software engineer who have a lot of passion in web development with experience in developing both frontend and backend
 
-🌱 I’m currently learning **React, NextJS, Angular and Typescript**
+🌱 I’m currently learning **Rust and Svelte**
 
 👨‍💻 All of my projects are available at [irfannm.dev/projects](https://irfannm.dev/projects)
 
